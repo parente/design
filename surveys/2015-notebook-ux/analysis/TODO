@@ -1,0 +1,12 @@
+# TODO
+
+* Notebook that categorizes the job roles and spits out a CSV / DataFrame of them for reuse
+* Notebook that sets up a factor plot of:
+  * theme overall
+  * theme by job category
+  * theme by how often used
+  * theme by how long used
+  * hypothesis: "it ain't gonna matter", the distribution is going to be the same shape across them all
+* Extend the existing question breakdown notebooks to save off their themes in CSV / DataFrame
+* Turn the factor plot notebook into a final rollup notebook with the factor plot per free text question
+  * Also have very simple frequency count plots for the other questions
